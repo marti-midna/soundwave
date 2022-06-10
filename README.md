@@ -1,5 +1,6 @@
 # SoundWave
-## EDGEMONY FINAL PROJECT - TEAM B
+### EDGEMONY FINAL PROJECT - TEAM B
+
 
 <img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0" >
 
@@ -22,3 +23,10 @@
   - filtri avanzati (artista, anno, ecc)
 
 <!-- soundwave-finalproject.vercel.app -->
+
+## Team
+Martina Aruta
+Claudio Bozzotta
+Giuseppe Favarò
+Muriel Ingrassia
+Valeria Scandurra
