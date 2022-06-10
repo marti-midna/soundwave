@@ -2,7 +2,8 @@
 #### EDGEMONY FINAL PROJECT - TEAM B
 
 
-<img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0">
+<!-- <img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0"> -->
+<img src="https://i.ibb.co/0FyDd2W/Schermata-2022-06-10-alle-23-12-45.png" alt="Soundwave" border="0">
 
 - **OBIETTIVI**
   - usare l'attuale UI di Spotify come punto di partenza
