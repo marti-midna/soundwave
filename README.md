@@ -1,11 +1,11 @@
 # SoundWave
-### EDGEMONY FINAL PROJECT - TEAM B
+#### EDGEMONY FINAL PROJECT - TEAM B
 
 
-<img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0" >
+<img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0">
 
 - **OBIETTIVI**
-  - usate l'attuale UI di Spotify come punto di partenza ma siete liberi di applicare eventuali personalizzazioni
+  - usare l'attuale UI di Spotify come punto di partenza
 - **obiettivi minimi:**
   - visualizzare lista (in griglia) di album e playlist disponibili
     - filtri per genere
@@ -18,15 +18,16 @@
   - layout responsive
 - **obiettivi extra:**
   - flusso di login (signin) e mostrare solo i dati legati all'utente loggato
-  - flusso creazione nuove utente (signup)
   - ricerca testuale (titolo)
   - filtri avanzati (artista, anno, ecc)
 
-<!-- soundwave-finalproject.vercel.app -->
+:point_right: <a href="https://soundwave-finalproject.vercel.app/login" alt="soundwave_app" target="_blank">SoundWave Application</a>
 
 ## Team
-Martina Aruta <br>
-Claudio Bozzotta <br>
-Giuseppe Favarò <br>
-Muriel Ingrassia <br>
-Valeria Scandurra <br>
+
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/martinaaruta/">Martina Aruta</a><br>
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/claudio-bozzotta-84a9657a/">Claudio Bozzotta</a><br>
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/giuseppe-favaro/">Giuseppe Favarò</a><br>
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/muriel-ingrassia-460a9723a/">Muriel Ingrassia</a><br>
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/valeria-scandurra/">Valeria Scandurra</a><br>
+
