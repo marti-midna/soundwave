@@ -25,8 +25,8 @@
 <!-- soundwave-finalproject.vercel.app -->
 
 ## Team
-Martina Aruta
-Claudio Bozzotta
-Giuseppe Favarò
-Muriel Ingrassia
-Valeria Scandurra
+Martina Aruta <br>
+Claudio Bozzotta <br>
+Giuseppe Favarò <br>
+Muriel Ingrassia <br>
+Valeria Scandurra <br>
