@@ -21,3 +21,4 @@
   - ricerca testuale (titolo)
   - filtri avanzati (artista, anno, ecc)
 
+/* soundwave-finalproject.vercel.app */
