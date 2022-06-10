@@ -1,6 +1,8 @@
 # SoundWave
 ## EDGEMONY FINAL PROJECT - TEAM B
 
+<img src="https://iili.io/hc9GXs.md.png" alt="soundwave" border="0" >
+
 - **OBIETTIVI**
   - usate l'attuale UI di Spotify come punto di partenza ma siete liberi di applicare eventuali personalizzazioni
 - **obiettivi minimi:**
