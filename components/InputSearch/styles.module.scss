@@ -31,7 +31,10 @@
         background-color: #F2F3F7;
         height: 40px;
         border-radius: 0 20px 20px 0;
-        padding-right: 1rem;
+        padding: 0 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         color: $primary-color;
 
     }
